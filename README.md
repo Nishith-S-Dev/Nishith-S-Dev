@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishith-S-Dev
 - 👀 I’m interested in web-dev 
-- 🌱 I’m currently learning react, nextjs
+- 🌱 I’m currently learning MERN
 - 😄 Pronouns: BroNish
 - ⚡ Fun fact: 404 error sucks
 
